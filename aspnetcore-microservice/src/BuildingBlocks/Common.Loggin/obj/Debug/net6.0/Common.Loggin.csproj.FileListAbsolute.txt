@@ -1,0 +1,13 @@
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\bin\Debug\net6.0\Common.Loggin.deps.json
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\bin\Debug\net6.0\Common.Loggin.dll
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\bin\Debug\net6.0\Common.Loggin.pdb
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\Common.Loggin.csproj.AssemblyReference.cache
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\Common.Loggin.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\Common.Loggin.AssemblyInfoInputs.cache
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\Common.Loggin.AssemblyInfo.cs
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\Common.Loggin.csproj.CoreCompileInputs.cache
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\Common.Loggin.sourcelink.json
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\Common.Loggin.dll
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\refint\Common.Loggin.dll
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\Common.Loggin.pdb
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\BuildingBlocks\Common.Loggin\obj\Debug\net6.0\ref\Common.Loggin.dll

@@ -3,27 +3,44 @@
   "WorkspaceRootPath": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A119BDDC-A82C-4682-8E42-72933B513F2C}|src{A119BDDC-A82C-4682-8E42-72933B513F2C}|E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A119BDDC-A82C-4682-8E42-72933B513F2C}|src{A119BDDC-A82C-4682-8E42-72933B513F2C}|solutionrelative:src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|E:\\.Net-core\\Ercommerce-Microservices\\Tedu-Microservices-Solution_Architect.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{A85863DD-4036-426B-A438-0D91998228BE}|src\\Services\\Ordering.API\\Ordering.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85863DD-4036-426B-A438-0D91998228BE}|src\\Services\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{2A620E4C-BD4F-CDDB-EEF4-D17D89A2166B}|src\\Services\\Inventory.Product.API\\Inventory\\Inventory.Product.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\inventory.product.api\\inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A620E4C-BD4F-CDDB-EEF4-D17D89A2166B}|src\\Services\\Inventory.Product.API\\Inventory\\Inventory.Product.API.csproj|solutionrelative:src\\services\\inventory.product.api\\inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A119BDDC-A82C-4682-8E42-72933B513F2C}|src{A119BDDC-A82C-4682-8E42-72933B513F2C}|E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A119BDDC-A82C-4682-8E42-72933B513F2C}|src{A119BDDC-A82C-4682-8E42-72933B513F2C}|solutionrelative:src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3B358818-40C1-07DF-88F1-B32AE10526F8}|src\\Services\\Customer.API\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B358818-40C1-07DF-88F1-B32AE10526F8}|src\\Services\\Customer.API\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|solutionrelative:shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A85863DD-4036-426B-A438-0D91998228BE}|src\\Services\\Ordering.API\\Ordering.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A85863DD-4036-426B-A438-0D91998228BE}|src\\Services\\Ordering.API\\Ordering.API.csproj|solutionrelative:src\\services\\ordering.api\\ordering.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{398D90B1-293D-709F-C8C5-37D7A6C6666A}|src\\Services\\Basket.API\\Basket.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398D90B1-293D-709F-C8C5-37D7A6C6666A}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18494F8C-21DD-AE69-5AB5-AFAA4DC7DBAA}|src\\BuildingBlocks\\Common.Loggin\\Common.Loggin.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\buildingblocks\\common.loggin\\serilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18494F8C-21DD-AE69-5AB5-AFAA4DC7DBAA}|src\\BuildingBlocks\\Common.Loggin\\Common.Loggin.csproj|solutionrelative:src\\buildingblocks\\common.loggin\\serilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398D90B1-293D-709F-C8C5-37D7A6C6666A}|src\\Services\\Basket.API\\Basket.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{398D90B1-293D-709F-C8C5-37D7A6C6666A}|src\\Services\\Basket.API\\Basket.API.csproj|solutionrelative:src\\services\\basket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\product.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B358818-40C1-07DF-88F1-B32AE10526F8}|src\\Services\\Customer.API\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B358818-40C1-07DF-88F1-B32AE10526F8}|src\\Services\\Customer.API\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,83 +50,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 735,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Tedu-Microservices-Solution_Architect.jpg - Bitmap [1371x862, 24 bit, JPG]",
-              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\Tedu-Microservices-Solution_Architect.jpg",
-              "RelativeDocumentMoniker": "..\\Tedu-Microservices-Solution_Architect.jpg",
-              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\Tedu-Microservices-Solution_Architect.jpg - Bitmap [1371x862, 24 bit, JPG]",
-              "RelativeToolTip": "..\\Tedu-Microservices-Solution_Architect.jpg - Bitmap [1371x862, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-05-09T01:59:02.528Z",
-              "EditorCaption": " - Bitmap [1371x862, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.yml",
-              "RelativeDocumentMoniker": "src\\docker-compose.yml",
-              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.yml",
-              "RelativeToolTip": "src\\docker-compose.yml",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-05-09T01:03:49.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "src\\docker-compose.override.yml",
-              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.override.yml",
-              "RelativeToolTip": "src\\docker-compose.override.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-05-09T01:03:50.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\Class1.cs",
-              "RelativeDocumentMoniker": "Shared\\Class1.cs",
-              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\Class1.cs",
-              "RelativeToolTip": "Shared\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T16:39:47.47Z",
+              "Title": "Ordering.API",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Ordering.API\\Ordering.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering.API\\Ordering.API.csproj",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Ordering.API\\Ordering.API.csproj",
+              "RelativeToolTip": "src\\Services\\Ordering.API\\Ordering.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T03:19:21.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "global.json",
-              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\global.json",
-              "RelativeDocumentMoniker": "global.json",
-              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\global.json",
-              "RelativeToolTip": "global.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-08T16:24:53.806Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Ordering.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Ordering.API\\Program.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Ordering.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Ordering.API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T03:19:24.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "README.md",
-              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-05-08T16:24:44.242Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Inventory.Product.API\\Inventory\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Inventory.Product.API\\Inventory\\Program.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Inventory.Product.API\\Inventory\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Inventory.Product.API\\Inventory\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T03:18:48.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Customer.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Customer.API\\Program.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Customer.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Customer.API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T03:18:06.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Basket.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\Program.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Basket.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Basket.API\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T03:17:17.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Serilogger.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\Serilogger.cs",
+              "RelativeDocumentMoniker": "src\\BuildingBlocks\\Common.Loggin\\Serilogger.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\Serilogger.cs",
+              "RelativeToolTip": "src\\BuildingBlocks\\Common.Loggin\\Serilogger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T03:11:52.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Program.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T03:10:19.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\appsettings.json",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Product.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T03:09:02.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Customer.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Customer.API\\appsettings.json",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Customer.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Customer.API\\Customer.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T03:08:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Basket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Basket.API\\appsettings.json",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Basket.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Basket.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-09T03:08:46.066Z",
               "EditorCaption": ""
             }
           ]
