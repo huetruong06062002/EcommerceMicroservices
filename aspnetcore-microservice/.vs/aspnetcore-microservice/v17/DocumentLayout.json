@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A119BDDC-A82C-4682-8E42-72933B513F2C}|src{A119BDDC-A82C-4682-8E42-72933B513F2C}|E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A119BDDC-A82C-4682-8E42-72933B513F2C}|src{A119BDDC-A82C-4682-8E42-72933B513F2C}|solutionrelative:src\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|E:\\.Net-core\\Ercommerce-Microservices\\Tedu-Microservices-Solution_Architect.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A119BDDC-A82C-4682-8E42-72933B513F2C}|src{A119BDDC-A82C-4682-8E42-72933B513F2C}|E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A119BDDC-A82C-4682-8E42-72933B513F2C}|src{A119BDDC-A82C-4682-8E42-72933B513F2C}|solutionrelative:src\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|solutionrelative:shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|Solution Items{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 735,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tedu-Microservices-Solution_Architect.jpg - Bitmap [1371x862, 24 bit, JPG]",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\Tedu-Microservices-Solution_Architect.jpg",
+              "RelativeDocumentMoniker": "..\\Tedu-Microservices-Solution_Architect.jpg",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\Tedu-Microservices-Solution_Architect.jpg - Bitmap [1371x862, 24 bit, JPG]",
+              "RelativeToolTip": "..\\Tedu-Microservices-Solution_Architect.jpg - Bitmap [1371x862, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-05-09T01:59:02.528Z",
+              "EditorCaption": " - Bitmap [1371x862, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.yml",
+              "RelativeDocumentMoniker": "src\\docker-compose.yml",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.yml",
+              "RelativeToolTip": "src\\docker-compose.yml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-09T01:03:49.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "src\\docker-compose.override.yml",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\docker-compose.override.yml",
+              "RelativeToolTip": "src\\docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-05-09T01:03:50.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "Shared\\Class1.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\Class1.cs",
+              "RelativeToolTip": "Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T16:39:47.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "global.json",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T16:24:53.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-08T16:24:44.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
