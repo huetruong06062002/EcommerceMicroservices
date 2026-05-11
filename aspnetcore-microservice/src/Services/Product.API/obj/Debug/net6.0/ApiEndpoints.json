@@ -1,8 +1,18 @@
 [
   {
+    "ContainingType": "Product.API.Controllers.ProductsController",
+    "Method": "GetProducts",
+    "RelativePath": "api/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Product.API.Controllers.WeatherForecastController",
     "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "weatherforecast",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
