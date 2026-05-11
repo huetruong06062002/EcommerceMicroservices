@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\product.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\product.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\shared\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\product\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\shared\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\product\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\shared\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\shared\\dtos\\product\\createorupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60EFEFE-D3D1-4AF4-86DB-34E7A6A11B9C}|Shared\\Shared.csproj|solutionrelative:shared\\dtos\\product\\createorupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\product.api\\migrations\\20260511073206_product_set_no_isunique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\migrations\\20260511073206_product_set_no_isunique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\product.api\\persistence\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|solutionrelative:src\\services\\product.api\\persistence\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3E02D6D-D48C-46EC-816B-11BC27413610}|src\\Services\\Product.API\\Product.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\product.api\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +50,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 735,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\DTOs\\Product\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOs\\Product\\ProductDto.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\DTOs\\Product\\ProductDto.cs",
+              "RelativeToolTip": "Shared\\DTOs\\Product\\ProductDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:51:11.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\DTOs\\Product\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOs\\Product\\UpdateProductDto.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\DTOs\\Product\\UpdateProductDto.cs",
+              "RelativeToolTip": "Shared\\DTOs\\Product\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:50:16.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOs\\Product\\CreateProductDto.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\DTOs\\Product\\CreateProductDto.cs",
+              "RelativeToolTip": "Shared\\DTOs\\Product\\CreateProductDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:50:08.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrUpdateProductDto.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\DTOs\\Product\\CreateOrUpdateProductDto.cs",
+              "RelativeDocumentMoniker": "Shared\\DTOs\\Product\\CreateOrUpdateProductDto.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\Shared\\DTOs\\Product\\CreateOrUpdateProductDto.cs",
+              "RelativeToolTip": "Shared\\DTOs\\Product\\CreateOrUpdateProductDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:47:34.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260511073206_Product_Set_no_IsUnique.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Migrations\\20260511073206_Product_Set_no_IsUnique.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Migrations\\20260511073206_Product_Set_no_IsUnique.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Migrations\\20260511073206_Product_Set_no_IsUnique.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Migrations\\20260511073206_Product_Set_no_IsUnique.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:32:32.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Persistence\\ProductContext.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Persistence\\ProductContext.cs",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Persistence\\ProductContext.cs",
+              "RelativeToolTip": "src\\Services\\Product.API\\Persistence\\ProductContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:30:01.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Product.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\Product.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T07:29:11.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\MappingProfile.cs",
               "RelativeDocumentMoniker": "src\\Services\\Product.API\\MappingProfile.cs",
@@ -39,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "AutoMapperExtension.cs",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Infrastructure\\Mapping\\AutoMapperExtension.cs",
               "RelativeDocumentMoniker": "src\\BuildingBlocks\\Infrastructure\\Mapping\\AutoMapperExtension.cs",
@@ -52,13 +171,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "src\\Services\\Product.API\\Controllers\\ProductsController.cs",
               "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "src\\Services\\Product.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAYwFwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA8wDQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T07:13:57.229Z",
               "EditorCaption": ""

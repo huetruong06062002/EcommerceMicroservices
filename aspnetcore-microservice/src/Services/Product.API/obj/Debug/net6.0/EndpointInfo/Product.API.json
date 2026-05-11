@@ -156,17 +156,18 @@
   "components": {
     "schemas": {
       "CreateProductDto": {
+        "required": [
+          "name"
+        ],
         "type": "object",
         "properties": {
-          "no": {
-            "type": "string",
-            "nullable": true
-          },
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 250,
+            "minLength": 1,
+            "type": "string"
           },
           "summary": {
+            "maxLength": 255,
             "type": "string",
             "nullable": true
           },
@@ -177,18 +178,27 @@
           "price": {
             "type": "number",
             "format": "double"
+          },
+          "no": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
       },
       "UpdateProductDto": {
+        "required": [
+          "name"
+        ],
         "type": "object",
         "properties": {
           "name": {
-            "type": "string",
-            "nullable": true
+            "maxLength": 250,
+            "minLength": 1,
+            "type": "string"
           },
           "summary": {
+            "maxLength": 255,
             "type": "string",
             "nullable": true
           },
