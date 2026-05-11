@@ -76,3 +76,7 @@ E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\Services\Produ
 E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\Services\Product.API\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Infrastructure.dll
 E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Infrastructure.pdb
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\AutoMapper.dll
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Shared.dll
+E:\.Net-core\Ercommerce-Microservices\aspnetcore-microservice\src\Services\Product.API\bin\Debug\net6.0\Shared.pdb
