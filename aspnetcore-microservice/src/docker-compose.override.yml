@@ -32,7 +32,7 @@ services:
     environment:
       - POSTGRES_USER=admin
       - POSTGRES_PASSWORD=admin1234
-      - POSTGRES_DB=DiscountDb
+      - POSTGRES_DB=CustomerDb
     restart: "no"
     ports:
       - "5433:5432"
@@ -67,13 +67,14 @@ services:
   pgadmin:
     container_name: pgadmin
     environment:
-      - PGADMIN_DEFAULT_EMAIL=admin@tedu_microservice.com
+      - PGADMIN_DEFAULT_EMAIL=admin@dotnetcore-microservice.com
       - PGADMIN_DEFAULT_PASSWORD=admin1234
+    user: root
     restart: "no"
     ports:
       - "5050:80"
     volumes:
-      - pgadmin_data:/root/.pgadmin
+      - pgadmin_data:/var/lib/pgadmin
     
   portainer:
     container_name: portainer

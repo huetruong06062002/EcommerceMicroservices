@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Hosting;
 using Serilog;
 
-namespace Common.Loggin
+namespace Common.Logging
 {
     public static class Serilogger
     {
