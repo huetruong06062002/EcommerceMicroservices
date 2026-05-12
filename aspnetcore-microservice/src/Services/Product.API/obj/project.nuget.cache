@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6dmaoYy3Pd0=",
+  "dgSpecHash": "yJm1iPvDFmA=",
   "success": true,
   "projectFilePath": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Product.API\\Product.API.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\mysql.data\\6.10.7\\mysql.data.6.10.7.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\mysql.data.entityframeworkcore\\6.10.7\\mysql.data.entityframeworkcore.6.10.7.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512",

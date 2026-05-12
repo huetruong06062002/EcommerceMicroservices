@@ -10,11 +10,12 @@
         "dependencies": {
           "AutoMapper": "11.0.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
-          "Common.Loggin": "1.0.0",
+          "Common.Logging": "1.0.0",
           "Contracts": "1.0.0",
           "Infrastructure": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.36",
           "Microsoft.EntityFrameworkCore.Design": "6.0.36",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0",
           "MySql.Data.EntityFrameworkCore": "6.10.7",
           "MySqlConnector": "2.5.0",
           "Pomelo.EntityFrameworkCore.MySql": "6.0.0",
@@ -264,6 +265,7 @@
           }
         }
       },
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0": {},
       "MySql.Data/6.10.7": {
         "dependencies": {
           "System.Configuration.ConfigurationManager": "4.4.0",
@@ -659,14 +661,14 @@
           "System.Runtime": "4.1.0"
         }
       },
-      "Common.Loggin/1.0.0": {
+      "Common.Logging/1.0.0": {
         "dependencies": {
           "Serilog.AspNetCore": "5.0.0",
           "Serilog.Enrichers.Environment": "2.2.0",
           "Serilog.Formatting.Compact": "1.1.0"
         },
         "runtime": {
-          "Common.Loggin.dll": {
+          "Common.Logging.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -908,6 +910,13 @@
       "sha512": "sha512-Nug3rO+7Kl5/SBAadzSMAVgqDlfGjJZ0GenQrLywJ84XGKO0uRqkunz5Wyl0SDwcR71bAATXvSdbdzPrYRYKGw==",
       "path": "microsoft.openapi/1.2.3",
       "hashPath": "microsoft.openapi.1.2.3.nupkg.sha512"
+    },
+    "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8NudeHOE56YsY59HYY89akRMup8Ho+7Y3cADTGjajjWroXVU9RQai2nA6PfteB8AuzmRHZ5NZQB2BnWhQEul5g==",
+      "path": "microsoft.visualstudio.azure.containers.tools.targets/1.21.0",
+      "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
     },
     "MySql.Data/6.10.7": {
       "type": "package",
@@ -1196,7 +1205,7 @@
       "path": "system.threading.tasks/4.0.11",
       "hashPath": "system.threading.tasks.4.0.11.nupkg.sha512"
     },
-    "Common.Loggin/1.0.0": {
+    "Common.Logging/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

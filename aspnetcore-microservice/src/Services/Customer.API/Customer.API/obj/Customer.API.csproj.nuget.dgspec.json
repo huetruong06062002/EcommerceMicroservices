@@ -4,87 +4,6 @@
     "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Customer.API\\Customer.API.csproj": {}
   },
   "projects": {
-    "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\Common.Loggin.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\Common.Loggin.csproj",
-        "projectName": "Common.Loggin",
-        "projectPath": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\Common.Loggin.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Serilog.AspNetCore": {
-              "target": "Package",
-              "version": "[5.0.0, )"
-            },
-            "Serilog.Enrichers.Environment": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Serilog.Formatting.Compact": {
-              "target": "Package",
-              "version": "[1.1.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Customer.API\\Customer.API.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -114,11 +33,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\Common.Loggin.csproj": {
-                "projectPath": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\Common.Loggin.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

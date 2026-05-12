@@ -275,18 +275,6 @@
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Serilog.Enrichers.Environment/2.2.0": {
-        "type": "package",
-        "dependencies": {
-          "Serilog": "2.3.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Serilog.Enrichers.Environment.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Serilog.Enrichers.Environment.dll": {}
-        }
-      },
       "Serilog.Extensions.Hosting/4.2.0": {
         "type": "package",
         "dependencies": {
@@ -480,21 +468,6 @@
           "lib/netcoreapp3.0/System.Text.Json.dll": {
             "related": ".xml"
           }
-        }
-      },
-      "Common.Loggin/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Serilog.AspNetCore": "5.0.0",
-          "Serilog.Enrichers.Environment": "2.2.0",
-          "Serilog.Formatting.Compact": "1.1.0"
-        },
-        "compile": {
-          "bin/placeholder/Common.Loggin.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Common.Loggin.dll": {}
         }
       }
     }
@@ -1030,21 +1003,6 @@
         "serilog.aspnetcore.nuspec"
       ]
     },
-    "Serilog.Enrichers.Environment/2.2.0": {
-      "sha512": "DMrj3A4l65kc4JouQyZjjFv7N58Y7lGsB81kSzorTwUGeI2wrTy7CVwSOfG90/Pcu/HV5bwGrUmxDZ38pON+5Q==",
-      "type": "package",
-      "path": "serilog.enrichers.environment/2.2.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net45/Serilog.Enrichers.Environment.dll",
-        "lib/netstandard1.3/Serilog.Enrichers.Environment.dll",
-        "lib/netstandard1.5/Serilog.Enrichers.Environment.dll",
-        "lib/netstandard2.0/Serilog.Enrichers.Environment.dll",
-        "serilog.enrichers.environment.2.2.0.nupkg.sha512",
-        "serilog.enrichers.environment.nuspec"
-      ]
-    },
     "Serilog.Extensions.Hosting/4.2.0": {
       "sha512": "gT2keceCmPQR9EX0VpXQZvUgELdfE7yqJ7MOxBhm3WLCblcvRgswEOOTgok/DHObbM15A3V/DtF3VdVDQPIZzQ==",
       "type": "package",
@@ -1289,16 +1247,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Common.Loggin/1.0.0": {
-      "type": "project",
-      "path": "../../BuildingBlocks/Common.Loggin/Common.Loggin.csproj",
-      "msbuildProject": "../../BuildingBlocks/Common.Loggin/Common.Loggin.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Common.Loggin >= 1.0.0",
       "Serilog.AspNetCore >= 5.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -1337,11 +1289,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\Common.Loggin.csproj": {
-              "projectPath": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\BuildingBlocks\\Common.Loggin\\Common.Loggin.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
