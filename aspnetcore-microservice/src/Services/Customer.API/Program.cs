@@ -7,6 +7,7 @@
 
 using Common.Logging;
 using Contracts.Common.Interfaces;
+using Customer.API.Entities;
 using Customer.API.Persistence;
 using Customer.API.Repositories;
 using Customer.API.Repositories.Interfaces;
@@ -44,17 +45,41 @@ try
         .AddScoped<ICustomerService, CustomerService>();
 
     var app = builder.Build();
-    app.MapGet("/",() => "Hello");
+    app.MapGet("/", () => "Hello");
 
     app.MapGet("/api/customers",
         async (ICustomerService customerService) => await customerService.GetCustomersAsync());
 
     app.MapGet("/api/customers/{username}",
-        async (string username, ICustomerService customerService) =>
-        await customerService.GetCustomerByUsernameAsync(username));
-    //app.MapPost("/", () => "Welcome to Customer API!");
-    //app.MapPut("/", () => "Welcome to Customer API!");
-    //app.MapDelete("/", () => "Welcome to Customer API!");
+    async (string username, ICustomerService customerService) =>
+    {
+        var customer = await customerService.GetCustomerByUsernameAsync(username);
+        return customer != null ? Results.Ok(customer) : Results.NotFound();
+    });
+
+    app.MapPost("/api/customers", 
+        async (Customer.API.Entities.Customer customer, ICustomerRepository customerRepository) =>
+    {
+        customerRepository.CreateAsync(customer);
+        customerRepository.SaveChangesAsync();
+    });
+
+    app.MapDelete("/api/customers/{id}",
+        async (int id, ICustomerRepository customerRepository) =>
+    { 
+        var customer = await customerRepository
+        .FindByCondition(x => x.Id.Equals(id))
+        .SingleOrDefaultAsync();
+        
+        if(customer == null) return Results.NotFound();
+
+        await customerRepository.DeleteAsync(customer);
+        await customerRepository.SaveChangesAsync();
+
+        return Results.NotFound();
+    });
+     
+
 
 
 

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Services\\CustomerService.cs",
@@ -55,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
               "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
               "RelativeToolTip": "src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T08:57:38.405Z",
               "EditorCaption": ""
@@ -74,7 +74,7 @@
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Program.cs",
               "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Program.cs",
               "RelativeToolTip": "src\\Services\\Customer.API\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAMwDQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T07:03:02.839Z",
               "EditorCaption": ""

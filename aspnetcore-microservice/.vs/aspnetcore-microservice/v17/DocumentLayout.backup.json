@@ -7,24 +7,16 @@
       "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|solutionrelative:src\\services\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D30B4AEA-ECB0-5A8F-0A5D-C0208C33723B}|src\\Services\\Customer.API\\Customer.API.csproj|e:\\.net-core\\ercommerce-microservices\\aspnetcore-microservice\\src\\services\\customer.api\\customer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -46,58 +38,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 735,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\CustomerService.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Services\\CustomerService.cs",
               "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\CustomerService.cs",
               "RelativeToolTip": "src\\Services\\Customer.API\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA0AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T08:58:30.541Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
               "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
               "RelativeToolTip": "src\\Services\\Customer.API\\Services\\Interfaces\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T08:57:38.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "src\\Services\\Customer.API\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T08:50:51.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "RelativeToolTip": "src\\Services\\Customer.API\\Repositories\\Interfaces\\ICustomerRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T08:48:49.19Z",
               "EditorCaption": ""
             },
             {
@@ -108,14 +74,14 @@
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Program.cs",
               "ToolTip": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Program.cs",
               "RelativeToolTip": "src\\Services\\Customer.API\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-12T07:03:02.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\appsettings.json",
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\appsettings.json",
@@ -128,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Customer.API",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Customer.API.csproj",
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Customer.API.csproj",
@@ -141,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "CustomerContextSeed.cs",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Persistence\\CustomerContextSeed.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Persistence\\CustomerContextSeed.cs",
@@ -154,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Customer.cs",
               "DocumentMoniker": "E:\\.Net-core\\Ercommerce-Microservices\\aspnetcore-microservice\\src\\Services\\Customer.API\\Entities\\Customer.cs",
               "RelativeDocumentMoniker": "src\\Services\\Customer.API\\Entities\\Customer.cs",
